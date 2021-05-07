@@ -15,4 +15,4 @@ document.querySelectorAll("p.footer-textarea")[2].innerText="@2021 One Mount Gro
 
 // Đổi ảnh đầu tiên thành ảnh onhousing.png
 // Gợi ý: Sử dụng .src
-document.getElementsByTagName("img")[0].src="onhousing.png";
+document.getElementsByTagName("img")[0].src="img/onhousing.png";
